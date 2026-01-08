@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Wall
+  - PlayerHit
+  - Broken
+  - Armor
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Creature
+  - Trap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3872740843
+    locked: 0
+  - name: FrontGround0
+    uniqueID: 3832559085
+    locked: 0
+  - name: FrontGround1
+    uniqueID: 2236741733
+    locked: 0
+  - name: FrontGround2
+    uniqueID: 2942125227
+    locked: 0
+  - name: Creature
+    uniqueID: 3418981889
+    locked: 0

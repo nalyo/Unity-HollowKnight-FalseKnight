@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\file\\unity\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\file\\unity\\My project\\assets\\scripts\\falseknightheadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\falseknightheadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\file\\unity\\My project\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\file\\unity\\My project\\assets\\scripts\\falsekigntstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\falsekigntstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\file\\unity\\My project\\assets\\scripts\\falseknightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\falseknightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|d:\\file\\unity\\my project\\assets\\scripts\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\file\\unity\\My project\\assets\\scripts\\sceneevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sceneevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\file\\unity\\My project\\assets\\scripts\\ui\\soului.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\soului.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\file\\unity\\My project\\assets\\scripts\\playerhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhitbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|D:\\file\\unity\\My project\\assets\\scripts\\barrelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\barrelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarrelController.cs",
+              "DocumentMoniker": "D:\\file\\unity\\My project\\Assets\\Scripts\\BarrelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BarrelController.cs",
+              "ToolTip": "D:\\file\\unity\\My project\\Assets\\Scripts\\BarrelController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BarrelController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAmwGYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:17:05.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerHitBox.cs",
+              "DocumentMoniker": "D:\\file\\unity\\My project\\Assets\\Scripts\\PlayerHitBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHitBox.cs",
+              "ToolTip": "D:\\file\\unity\\My project\\Assets\\Scripts\\PlayerHitBox.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHitBox.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:09:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FalseKnightHeadController.cs",
+              "DocumentMoniker": "D:\\file\\unity\\My project\\Assets\\Scripts\\FalseKnightHeadController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FalseKnightHeadController.cs",
+              "ToolTip": "D:\\file\\unity\\My project\\Assets\\Scripts\\FalseKnightHeadController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FalseKnightHeadController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAawD8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:02:18.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SoulUI.cs",
+              "DocumentMoniker": "D:\\file\\unity\\My project\\Assets\\Scripts\\UI\\SoulUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\SoulUI.cs",
+              "ToolTip": "D:\\file\\unity\\My project\\Assets\\Scripts\\UI\\SoulUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\SoulUI.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T06:43:18.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SceneEvent.cs",
+              "DocumentMoniker": "D:\\file\\unity\\My project\\Assets\\Scripts\\SceneEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneEvent.cs",
+              "ToolTip": "D:\\file\\unity\\My project\\Assets\\Scripts\\SceneEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneEvent.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-28T14:21:28.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerState.cs",
+              "DocumentMoniker": "D:\\file\\unity\\My project\\Assets\\Scripts\\PlayerState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerState.cs",
+              "ToolTip": "D:\\file\\unity\\My project\\Assets\\Scripts\\PlayerState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerState.cs",
+              "ViewState": "AgIAABACAAAAAAAAAADwvyMCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-27T13:34:02.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\file\\unity\\My project\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\file\\unity\\My project\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T14:08:59.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FalseKigntState.cs",
+              "DocumentMoniker": "D:\\file\\unity\\My project\\Assets\\Scripts\\FalseKigntState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FalseKigntState.cs",
+              "ToolTip": "D:\\file\\unity\\My project\\Assets\\Scripts\\FalseKigntState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FalseKigntState.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAADwv4gAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T06:34:00.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FalseKnightController.cs",
+              "DocumentMoniker": "D:\\file\\unity\\My project\\Assets\\Scripts\\FalseKnightController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FalseKnightController.cs",
+              "ToolTip": "D:\\file\\unity\\My project\\Assets\\Scripts\\FalseKnightController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FalseKnightController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T13:19:33.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

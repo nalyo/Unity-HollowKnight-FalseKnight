@@ -1,0 +1,30 @@
+using System.Collections;
+using System.Collections.Generic;
+using System.Data.Common;
+using UnityEngine;
+
+public class EnemyHitBox : MonoBehaviour
+{
+    [SerializeField]
+    private float damage = 0f;
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            other.GetComponent<Player.PlayerController>().TakeDamage(damage);
+        }
+    }
+
+
+    // Start is called before the first frame update
+    void Start()
+    {
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        
+    }
+}
