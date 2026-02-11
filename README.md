@@ -6,5 +6,5 @@ A Unity reproduce of HollowKnight's FalseKnight boss fight.
 
 
 
-!\[Watch Demo](demo.mp4)
+!\[Watch Demo](https://www.bilibili.com/video/BV1hTHxzFE9V)
 
